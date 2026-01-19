@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/icon.png" alt="coding setup" width="320" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Technologist" width="200" align="right">
 
 <p align="left"> 
   <strong>Olá, eu sou Halisson de Freitas!</strong> 👋
