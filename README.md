@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Technologist" width="200" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Technologist" width="200" align="right">
 
 <p align="left"> 
   <strong>Olá, eu sou Halisson de Freitas!</strong> 👋
