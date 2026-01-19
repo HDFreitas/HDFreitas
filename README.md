@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/C66L8K6.png" alt="coding setup" width="350" align="right">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/icon.png" alt="coding setup" width="320" align="right">
 
 <p align="left"> 
   <strong>Olá, eu sou Halisson de Freitas!</strong> 👋
