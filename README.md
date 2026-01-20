@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Technologist" width="200" align="right">
 
 <p align="left"> 
-  <strong>Olá, eu sou Halisson de Freitas!</strong> 👋
+  <strong>Olá, eu sou Halisson de Freitas!</strong>
   <br><br>
   Sou um desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web.<br>
   Trabalho ativamente com <strong>PHP</strong> e <strong>Vue.js</strong>, além de desenvolver soluções utilizando <strong>Node.js</strong> e <strong>TypeScript</strong>.
