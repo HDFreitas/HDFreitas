@@ -6,7 +6,7 @@
   Sou um desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web.<br>
   Trabalho ativamente com <strong>PHP</strong> e <strong>Vue.js</strong>, além de desenvolver soluções utilizando <strong>Node.js</strong> e <strong>TypeScript</strong>.
   <br><br>
-  Possuo sólida vivência em sistemas <strong>ERP</strong>, Web Services e arquitetura de software (SOLID), com experiência prática em ambientes Cloud (Azure) e containerização (Docker).
+  Possuo sólida vivência em sistemas <strong>ERP</strong>, Web Services, API REST e arquitetura de software (SOLID), com experiência prática em ambientes Cloud (Azure) e containerização (Docker).
 </p>
 
 <p align="left">
