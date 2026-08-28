@@ -1,6 +1,10 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Technologist" width="200" align="right">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0f2847,100:1e3a8a&height=180&section=header&text=Halisson%20de%20Freitas&fontSize=42&fontAlignY=35&fontColor=f0f6ff&animation=twinkling" alt="Halisson de Freitas" width="100%"/>
 
-<p align="left"> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58a6ff&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Halisson+de+Freitas!;PHP+%7C+Vue.js+%7C+Node.js+%7C+TypeScript;ERP+%7C+REST+APIs+%7C+Azure+%7C+Docker" alt="Typing animation"/>
+</p>
+
+<p align="left">
   <strong>Olá, eu sou Halisson de Freitas!</strong>
   <br><br>
   Sou um desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web.<br>
@@ -9,55 +13,44 @@
   Possuo sólida vivência em sistemas <strong>ERP</strong>, Web Services, API REST e arquitetura de software (SOLID), com experiência prática em ambientes Cloud (Azure) e containerização (Docker).
 </p>
 
-<p align="left">
-  <strong>Languages & Frameworks</strong>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HDFreitas&theme=dark&hide_border=true&background=0A1628&ring=2563EB&fire=FF4500&currStreakNum=FBBF24&sideNums=60A5FA&currStreakLabel=F97316&sideLabels=93C5FD&dates=64748B" alt="GitHub streak" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1e3a8a,100:2563eb&height=60&section=footer&animation=twinkling" alt="divider" width="100%"/>
+
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,vue,nodejs,ts&theme=dark" alt="Languages & Frameworks"/>
 </p>
 
-<p align="left">
-  <strong>Databases</strong>
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,github&theme=dark" alt="DevOps & Cloud"/>
 </p>
 
-<p align="left">
-  <strong>DevOps & Cloud</strong>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="Tools"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1e3a8a,100:2563eb&height=60&section=footer&animation=twinkling" alt="divider" width="100%"/>
 
-<p align="left">
-  <strong>Tools</strong>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-<p align="left">
-  <strong>Contatos<strong> 
-</p>
-
-<p align="left">
+<h3 align="center">Contatos</h3>
+<p align="center">
   <a href="mailto:halissondefreitas@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/halissondefreitas/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0f2847,100:1e3a8a&height=120&section=footer&animation=twinkling" alt="Footer" width="100%"/>
