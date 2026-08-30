@@ -13,10 +13,6 @@
   Possuo sólida vivência em sistemas <strong>ERP</strong>, Web Services, API REST e arquitetura de software (SOLID), com experiência prática em ambientes Cloud (Azure) e containerização (Docker).
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HDFreitas&theme=dark&hide_border=true&background=0A1628&ring=2563EB&fire=FF4500&currStreakNum=FBBF24&sideNums=60A5FA&currStreakLabel=F97316&sideLabels=93C5FD&dates=64748B" alt="GitHub streak" height="165"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1e3a8a,100:2563eb&height=60&section=footer&animation=twinkling" alt="divider" width="100%"/>
 
 <h3 align="center">Languages & Frameworks</h3>
